@@ -11,4 +11,5 @@ Gem::Specification.new do |s|
   s.email       = 'andrei@mytime.com'
   s.files       = ['lib/my_hash_diff.rb']
   s.license     = 'MIT'
+  s.add_dependency 'activesupport'. '~> 7.0', '>= 7.0.4'
 end

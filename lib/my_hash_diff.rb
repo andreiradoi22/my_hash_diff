@@ -8,5 +8,3 @@ class Hash
     self.except(*elements.keys)
   end
 end
-
-puts ({a:1, b:2, c:3}.my_diff({c: 3}))

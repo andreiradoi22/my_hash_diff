@@ -5,6 +5,6 @@
 source 'https://rubygems.org'
 
 # require this gem's dependencies
-gem 'active_support'
+gem "activesupport"
 
 gem 'rspec'
